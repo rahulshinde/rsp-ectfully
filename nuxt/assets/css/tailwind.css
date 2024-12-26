@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: rgb(106, 86, 70);
+  --fg: rgb(224, 213, 198);
+  --accent1: #ff0000;
+  --accent2: #00ff00;
+  --accent3: #0000ff;
+  --quick: 0.25s;
+  
+  --sans: "Noto Sans", sans-serif;
+  --serif: "Playfair Display", serif;
+}
+
